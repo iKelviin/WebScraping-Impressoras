@@ -1,0 +1,6 @@
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\bin\Release\DAL.dll
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\bin\Release\DAL.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\obj\Release\DAL.dll
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\obj\Release\DAL.pdb
+C:\Users\kelvin.rocha\Documents\GitHub\WebScrapingImpressoras\DAL\obj\Release\DAL.csprojAssemblyReference.cache
